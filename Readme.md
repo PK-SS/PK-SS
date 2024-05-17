@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Sinha</h1>
-<h3 align="center">I am Prefinal Year B-Tech Student at IIT Guwahati</h3>
+<h3 align="center">I am Final Year B-Tech Student at IIT Guwahati</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk-ss&label=Profile%20views&color=0e75b6&style=flat" alt="pk-ss" /> </p>
 
